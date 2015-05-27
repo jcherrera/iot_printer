@@ -1,11 +1,11 @@
 #!/usr/bin/python
 
-# Read 5 (hot) posts from Reddit /r/news and send to printer
+# Reads 5 (hot) posts from Reddit /r/news and send to printer
 # Juan Carlos Herrera
 
 from __future__ import print_function
 __author__ = 'Juan Carlos Herrera <j.c.h@me.com>'
-__source__ = 'https://github.com/jcherrera'
+__source__ = 'https://github.com/jcherrera/iot_printer'
 
 import re
 import praw
